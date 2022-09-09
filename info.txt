@@ -1,0 +1,5 @@
+steps:
+1. download annotated data with coco json file
+2. run the example.py file 
+3. download and run Qgis software to open the images
+4. need gimp software to check RGB values
